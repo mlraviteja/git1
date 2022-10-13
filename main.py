@@ -2,6 +2,10 @@ print("hello")
 
 print("hi")
 
+300+400
+500+6600
+
+
 print(1+2)
 
 
