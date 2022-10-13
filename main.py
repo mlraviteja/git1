@@ -3,6 +3,8 @@ print("hello")
 print("hi")
 
 print(1+2)
+ 
+ print(220-220)
 
 
 import numpy 
